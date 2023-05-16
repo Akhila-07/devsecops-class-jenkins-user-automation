@@ -1,5 +1,5 @@
 bucket         = "stagbucket12345"
-key            = "devops-training/ec2.tfstate"
+key            = "cicd"
 region         = "us-east-1"
 encrypt        = true
 dynamodb_table = "stagcicd"
