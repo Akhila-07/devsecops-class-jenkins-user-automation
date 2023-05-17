@@ -8,7 +8,7 @@ pipeline {
 	}
 
     environment {
-        AWS = credentials("860529425223")
+        AWS = credentials("admin-akhila")
 	}
 
     parameters {
